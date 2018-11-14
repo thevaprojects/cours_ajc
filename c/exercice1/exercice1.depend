@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540999023 source:/home/theva/Bureau/exercice1/main.c
+	<stdio.h>
+	<stdlib.h>
+
